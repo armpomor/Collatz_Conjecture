@@ -1,7 +1,7 @@
 import plotly.graph_objs as go
 from random import randint
 
-
+# Это оригинал
 def collatz(n):
     list_steps = []
     while True:
